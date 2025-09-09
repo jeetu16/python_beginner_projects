@@ -1,3 +1,13 @@
+# Loop
+#   Ask : roll the dice?
+#   If user enters y
+#       Generate two random number
+#       Print them
+#   If user enters n
+#       terminate the game
+#   Else 
+#       Print invalid choice
+# Print Thank you message 
 import random;
 
 while True:
